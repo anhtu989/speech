@@ -5,7 +5,7 @@
 Here’s a refactored version of your `.md` file with improved structure, clarity, and flow. The changes focus on simplifying language, enhancing readability, and ensuring consistency throughout the document:
 
 ```markdown
-# The Power of Speech
+<!-- 上次修改: {timestamp} -->
 
 Speech is one of humanity's most powerful tools. It allows us to share ideas, build connections, and inspire change. Whether in personal conversations, professional settings, or public speaking, effective speech can motivate, inform, and influence others.
 
