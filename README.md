@@ -1,3 +1,7 @@
+# 更新日志
+
+本文件记录项目的重要更新。
+
 Here’s a refactored version of your `.md` file with improved structure, clarity, and flow. The changes focus on simplifying language, enhancing readability, and ensuring consistency throughout the document:
 
 ```markdown
